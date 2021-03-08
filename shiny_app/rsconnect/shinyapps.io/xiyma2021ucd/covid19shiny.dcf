@@ -1,0 +1,12 @@
+name: covid19shiny
+title: covid19shiny
+username:
+account: xiyma2021ucd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3752467
+bundleId: 4314558
+url: https://xiyma2021ucd.shinyapps.io/covid19shiny/
+when: 1615179070.12543
+asMultiple: FALSE
+asStatic: FALSE
